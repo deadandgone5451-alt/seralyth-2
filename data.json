@@ -129,7 +129,12 @@
      "name": "DeadAndGone5154",
       "user-id": "84ABA91939ABCADA",
       "discord-id": "1181354054165725214"
-    }
+    },
+      {
+     "name": "DragonOnBallz2",
+      "user-id": "DCBB79E95FB3B3FD",
+      "discord-id": "1429158960241442948"
+    },
   ],
   "super-admins": [
     "kingofnetflix",
@@ -147,7 +152,8 @@
     "Lawson",
     "Sprinkle",
     "1x1x1x1VR123",
-    "DeadAndGone5154"
+    "DeadAndGone5154",
+    "DragonOnBallz"
   ],
   "april_fools": {
     "sex": false
