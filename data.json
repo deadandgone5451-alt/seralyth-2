@@ -151,15 +151,10 @@
       "discord-id": "1505252342566490363"
      },
      {
-     "name": "catfeinekit",
-      "user-id": "621C2851D942720B",
-      "discord-id": "1162848879427997856"
-     },
-     {
-     "name": "The_copilot",
-      "user-id":"E2921673311F6EC3",
+     "name": "the_copilot",
+      "user-id": "E2921673311F6EC3",
       "discord-id": "1428927489060638854"
-     {
+     }
   ],
   "super-admins": [
     "kingofnetflix",
@@ -179,8 +174,7 @@
     "1x1x1x1VR123",
     "DeadAndGone5154",
     "crimsone-chan",
-    "Larp",
-    "copilot"
+    "Copilot",
   ],
   "april_fools": {
     "sex": false
